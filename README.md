@@ -2,6 +2,8 @@
 
 ## Number of participants per competition
 
+![Number of participants per competition](https://raw.githubusercontent.com/usuyama/kaggle_competitions_stats/master/num_participants_per_competition.png)
+
 ## Total prize money per competition
 
 ### Scraping the list of competitions
